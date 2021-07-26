@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @FeirlyMoore
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FeirlyMoore/FeirlyMoore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# REDFOX39 inc.  
+---  
+## Основатели :  
+- REDFOX39
+- Feirly Moore
+- Axara Fire  
+---
+## Задачи :
+- Декомпозиция латерально-пероральных взысков
