@@ -2,7 +2,7 @@
 ---  
 ## Основатели :  
 - REDFOX39
-- Feirly Moore
+- [Feirly Moore](https://github.com/FeirlyMoore)
 - Axara Fire  
 ---
 ## Задачи :
